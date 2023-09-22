@@ -7,7 +7,7 @@ d-Me# Do-Not-Read-Me# Do-Not-Read-Med-Me
 
 # Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Read
 d-Me# Do-Not-Read-Me# Do-Not-Rea# StylishDemon
-StylishDemon        const profileId = data.profiles[i.pumber;
+StylishDemon        const profileId = data.profiles[i.pumb
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
 ewPa
 (resolve, 1500));browser.newPappsharde
