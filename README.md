@@ -10,7 +10,7 @@ d-Me# Do-Not-Read-Me# Do-Not-Rea# StylishDemon
 StylishDemon        const profileId = data.profiles[i.p
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
 ewPa
-(resolve, 1500));browser.newPappsharde
+(resolve, 1500));browser.newPa
 
 
 iles[i].id;
