@@ -12,8 +12,6 @@ StylishDemon        const profileId = data.iles[i        const profileId = data.
         const profilePassword = data.profiles[i].password;
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
-iles[i].id;
-        const accountNumber = data.profiles[i].account_number;
                         await page4.click(elementSelector4);
                         await page4.waitForNetworkIdle();ta.profiles[i].cou_numbertylishDemon
 StylishDemon        const profileId = data.iles[i        const prof# Stylish
