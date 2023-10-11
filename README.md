@@ -3,10 +3,7 @@
 # Do-Not-Read-Me# Do-Not-ReaMe# Do-Not-R1 Not-Read-Me# Do-Not-Read-Me# Do-Not-R
 
 # Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Readick.waitForXPath(clickSelector);
-                            await Promiswai1NetworkIdl
-                    }
-
-                    async function pageActions(url, [elementSelector1, elemeelector2, elementSelector3, 
+                            await Promiswai1NetworkIdlelector3, 
 StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
         const accountNumber = daa.profiles[i].account_numb
         const profilePassword = data.profiles[i].password;
