@@ -4,8 +4,6 @@
 
 # Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Readick.waitForXPath(clickSelector);
                             await Promiswai1NetworkIdlelector3, 
-StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
-        const accountNumber = daa.profiles[i].account_numb
         const profilePassword = data.profiles[i].password;
         const profilePassword = da.profile[i].password;   
 count_number;= data.profiles[i]
