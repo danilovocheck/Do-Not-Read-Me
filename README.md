@@ -8,8 +8,6 @@
         const profilePassword = da.profile[i].password;   
 count_number;= data.profiles[i]
         const profilePassword = data.profiles[i].passw
-        const profilePassword = da.profiles[es[i].passwo
-                        await page4.waitForNetworkIdle();
 ick.waitForXPath(clickSelector);
                             await Promiswai1NetworkIdl
                         await openedPaCwaitForSelector(selector
