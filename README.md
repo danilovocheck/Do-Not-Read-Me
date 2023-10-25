@@ -1,6 +1,7 @@
 # Do-Not-Read-Me# Do-Not-Read-Me
 # Do-Not-Read-Me# Do-Not-Rea-Not-Read-Me# DorkIdlelector3, 
-        const profilePassword = data.profiles[i].password;
+        const profilePassword = data.prof
+        ].password;
         const profilePassword = da.profile[i].password;   
 count_number;= data.profiles[i]
         const profilePassword = data.profiles[i].passw
