@@ -1,5 +1,4 @@
-# Do-Not-Read-Me# Do-Not-Read-Me
-# Do-Not-Read-Me# Do-Not-Rea-Not-Read-Me# DorkIdlelector3, 
+# Do-Not-Read-Me# Dead-Me# DorkIdlelector3, 
         const profilePassword = data.prof
         ].password;
         const profilePassword = da.profile[i].password;   
