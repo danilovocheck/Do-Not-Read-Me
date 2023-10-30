@@ -1,5 +1,5 @@
 # Do-Not-Read-Me# Dead-Me# DorkIdlelector3, 
-        const profilePassword = data.prof
+        const profilePasswof
         ].password;
         const profilePassword = da.profi
         const profilePassword = data.profiles[i].passw
