@@ -1,7 +1,7 @@
 # Do-Not-Read-Me# Dead-Me# DorkIdlelector3, 
         const profilePasswof
         ].password;
-        const profilePassword = da.profi
+        const pro = da.profi
         const profilePassword = data.profiles[i].passw
 ick.waitForXPath(clickSelector);
 
