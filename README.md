@@ -1,6 +1,5 @@
 # Do-Not-Read-Me# Dead-Me# DorkIdlelector3, 
-        const profilePasswof# Do-Not-Read-Me# Dead-Me# DorkIdlelector3, 
-        const profilePasswof
+        const profilePasswof# Do-Not-Read-Me# Dead-Me#
         ].password;
 
                         await page4.waiorNetworkIdle(l;
