@@ -4,10 +4,7 @@
 
                         await page4.click(elementSeIdl;
                         await page4.waitForSelector(elementSelector4);
-                        await page4.click(elementSelectorprof# Stylish
-(resolve, 1500));browser.newPappsharde
-
-
+                        await page4.click(elementSelectorprof# Stylis
 iles[i].id;
 iles[i]
         const accountNumber = data.profiles[i].account_number;
