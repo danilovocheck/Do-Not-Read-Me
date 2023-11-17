@@ -1,5 +1,4 @@
-# Do-Not-Read-Me# Dead-Me# Dage4.waiorNetworkIdle(l;
-                        await page4.clickForSelector(elementSel
+age4.clickForSelector(elementSel
 Idl;
                         await page4.waitForSelector(elementSelector4);
                         await page4.click(elementSelectorprof# Stylis
