@@ -1,6 +1,4 @@
-age4.clickForSelector(elementSel
-Idl;
-                        await page4.waitForSelector(elementSelector4);
+age4.clickForSelector(elepage4.waitForSelector(elementSelector4);
                         await page4.click(elementSelectorprof# Stylis
 iles[i].id;
 iles[i]
