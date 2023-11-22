@@ -1,9 +1,7 @@
 age4.clickForSelector(elepage4.waitForSelector(elementSelector4);
                         await page4.click(elementSelectorprof# Stylis
 iles[i].id;
-iles[i]
-        const accountNumber = data.profiles[i].account_number;
-        const profilePassword = da.profile[i].password;   
+iles[i]rd;   
 count_number;= data.profiles[i]
         const accountNumber = daa.profiles[i].account_number
                         await page4.waitForNetworkIdle(l
