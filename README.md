@@ -1,7 +1,5 @@
 age4.clickForSelector(elepage4.waitForSelector(elementSelector4);
-                        await page4.click(elementSelectorprof# Stylis
-iles[i].id;
-iles[i]rd;   
+                        a
 count_number;= data.profimber
                         await page4.waitForNetworkIdle(l
                         await page4.waitForSelector(elementSelector5
