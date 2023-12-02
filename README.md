@@ -1,4 +1,3 @@
-age4.clickForSelector(elepage4
-                        await pa4.waitForNetworkIdle();
+age4.clickForSelector(elep();
 
 iles[i].id;ber
